@@ -1,6 +1,6 @@
 package contreras.roberto.practica9
 
-data class User(
+data class Users(
     var firstName: String? = null,
     var lastName: String? = null,
     var age: String? = null) {

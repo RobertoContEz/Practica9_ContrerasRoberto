@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "contreras.roberto.practica9"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "contreras.roberto.practica9"
