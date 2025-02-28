@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895995889206",
+    "project_id": "practica9-contrerasroberto",
+    "storage_bucket": "practica9-contrerasroberto.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895995889206:android:513e16ed73f5dd164bfa97",
+        "android_client_info": {
+          "package_name": "contreras.roberto.practica9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_fmwB-vwKE3dJRQIF7j4up92LBbakT-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
